@@ -1,7 +1,5 @@
 # app-dev
 gonzalez.252605@gensan.sti.edu.ph
-# app-dev
-gonzalez.252605@gensan.sti.edu.ph
 # Bleach
 ## Introduction
 ### Bleach is a popular Japanese anime and manga series created by Tite Kubo. The story follows Ichigo Kurosaki, a teenager with the ability to see ghosts. One day, he acquires the powers of a Soul Reaper and must protect the living world from evil spirits and guide the souls of the deceased to the afterlife.
